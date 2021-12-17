@@ -5,4 +5,4 @@ A program to spam "messages" on tellonym.me
 - **Requests**
 - **Cloudscraper**
 
-Note : You will need a list of proxies, and an **API KEY** from capcloud.
+Note : You will need a list of proxies, and an **API KEY** from capmonster.
